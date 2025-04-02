@@ -1,0 +1,30 @@
+{
+   "images": [
+    {
+      "src": "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2",
+      "alt": "Espace de travail moderne avec iMac - bureau minimaliste avec ordinateur Apple",
+      "width": 1200,
+      "height": 800,
+      "type": "hero",
+      "priority": "high"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1496664444929-8c75efb9546f",
+      "alt": "Espace de travail moderne avec deux écrans - bureau ergonomique pour le développement",
+      "width": 1200,
+      "height": 800,
+      "type": "og-image",
+      "priority": "high"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1501159599894-155982264a55",
+      "alt": "Bureau ergonomique avec MacBook Pro et accessoires de développeur",
+      "width": 800,
+      "height": 600,
+      "type": "about",
+      "priority": "medium"
+    }
+  ],
+  "lastUpdated": "2023-06-01T12:00:00Z"
+}
+ 
